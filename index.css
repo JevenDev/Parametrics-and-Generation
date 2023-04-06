@@ -1,0 +1,54 @@
+*{
+    background: #333;
+    padding: 0;
+    margin: 0;
+}
+
+.header h1{
+    color: white;
+    font-size: 4.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header h2{
+    color: grey;
+    font-size: 3.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.header h3{
+    color: red;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.canvas-boxes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+}
+
+.box iframe{
+    height: 1000px;
+    width: 1000px;
+}
+
+.box h1{
+    color: white;
+    font-size: 3rem;
+    align-content: normal;
+}
+
+.box h2{
+    color: grey;
+    padding-bottom: 5px;
+}
