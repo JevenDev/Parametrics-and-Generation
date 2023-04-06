@@ -6,6 +6,8 @@ function setup() {
   background(0);
   noFill();
   stroke(255, 150);
+  // frameRate(30);
+  // createLoop({duration:6, gif:true});
 
   for (var i = 0; i < 5; i++) {
     shapes.push({
