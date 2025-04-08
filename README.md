@@ -1,4 +1,4 @@
-# Parametrics and Generation / GDES-3091-501
+# Parametrics and Generation
 ---
 _BY JEVEN RANDHAWA_
 > **_PHOTOSENSITIVITY WARNING_**
